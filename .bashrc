@@ -6,3 +6,4 @@ if [ -f ~/.aliases ]; then
    source ~/.aliases
 fi
 
+fliptable() { echo "（╯°□°）╯ ┻━┻"; } # Flip a table. Example usage: fsck -y /dev/sdb1 || fliptable
